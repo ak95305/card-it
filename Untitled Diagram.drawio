@@ -1,9 +1,27 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8">
   <diagram name="Page-1" id="VAyLeLzolnYNupk27S8N">
-    <mxGraphModel>
+    <mxGraphModel dx="1224" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FHtEGDYzyGIH_HcpHx_3-1" value="Able to see outstanding bills current and history" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;spacingLeft=19;" vertex="1" parent="1">
+          <mxGeometry y="40" width="500" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FHtEGDYzyGIH_HcpHx_3-4" value="Able to add cash withdrawl and estimated charges" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=22;spacingLeft=19;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry y="89" width="540" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FHtEGDYzyGIH_HcpHx_3-5" value="Able to Add Credit Cards and Limit According to the User" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=22;spacingLeft=19;horizontal=1;flipH=0;flipV=1;" vertex="1" parent="1">
+          <mxGeometry y="140" width="590" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FHtEGDYzyGIH_HcpHx_3-8" value="Able to Add Credit Cards bill due dates" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=22;spacingLeft=19;horizontal=1;flipH=0;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="2" y="200" width="590" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FHtEGDYzyGIH_HcpHx_3-9" value="Able to See Limit Used" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=22;spacingLeft=19;horizontal=1;flipH=0;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="2" y="250" width="590" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FHtEGDYzyGIH_HcpHx_3-10" value="Able to See Each month billed" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=22;spacingLeft=19;horizontal=1;flipH=0;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="2" y="300" width="590" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
